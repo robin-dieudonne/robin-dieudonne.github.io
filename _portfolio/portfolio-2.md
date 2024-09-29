@@ -11,8 +11,8 @@ collection: portfolio
     
   Conducted performance analysis to evaluate the effectiveness of RL algorithms in high-level control tasks.
 
+  You can find the slides [here](https://robin-dieudonne.github.io/files/PPO_TD3.pdf).
 </p>
-<br/>
-<div/>
+</p>div>
   
-You can find the slides [here](https://robin-dieudonne.github.io/files/PPO_TD3.pdf).
+
