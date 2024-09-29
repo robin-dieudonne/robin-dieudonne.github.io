@@ -1,6 +1,24 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NLP for Sign Language Translation"
+excerpt: "Sign Language Machine Translation (SLT) is challenged by the scarcity of an-
+notated data. In this project, we enhance data augmentation techniques and im-
+prove gloss-to-text translation, where glosses are sequences of transcribed spoken-
+language words ordered as they are signed. We treat gloss-to-text translation as
+
+a low-resource neural machine translation (NMT) problem. Our data augmenta-
+tion approach focuses on generating glosses from text to address the shortage of
+
+professionally annotated SLT data.
+
+Utilizing the PHOENIX-Weather 2014T corpus, we achieve a new state-of-the-
+art ROUGE-L score of 57.11. Our results demonstrate the potential for further
+
+advancements in SLT by jointly training encoder-decoder architectures on both
+text-to-gloss and gloss-to-text tasks. This combined approach not only augments
+the data but also improves SLT performance using the newly generated data.
+
+<br/><img src='/images/500x300.png'>"
+
 collection: portfolio
 ---
 
