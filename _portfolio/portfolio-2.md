@@ -8,7 +8,8 @@ excerpt: "Applied PPO (Proximal Policy Optimization) and TD3 (Twin Delayed DDPG)
   <img alt="Dark" src="/images/humanoid_standup.gif" width="45%">
 </p>
 
-<br/><img src='/images/ant.gif'> <br/><img src='/images/humanoid_standup.gif'>"
+<br/><img src='/images/ant.gif'>
+<br/><img src='/images/humanoid_standup.gif'>"
 
 collection: portfolio
 ---
