@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div>
 Mathematics and Applications BSc student @ Université Paris Cité, specializing in Mathematical and Probabilistic Engineering Techniques, with a strong emphasis on Programming Languages and Algorithmic Tools.
 <br/>
 <br>
 <br>
 <img src='/images/20240805_160833582_91011.jpg' style="max-width: 100%;">
-
+</div>
 
 
 {::comment}
