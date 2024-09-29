@@ -1,6 +1,6 @@
 ---
 title: "NLP for Sign Language Translation"
-excerpt: "Developed a state-of-the-art sign language translation model using transformers and the Flan-T5 architecture to improve gloss-to-text translation.<br/><img src='/images/500x300.png'>"
+excerpt: "Developed a state-of-the-art sign language translation model using transformers and the Flan-T5 architecture to improve gloss-to-text translation.<br/><img src='/images/D2G-T5_G2D-T5.png'>"
 
 collection: portfolio
 ---
