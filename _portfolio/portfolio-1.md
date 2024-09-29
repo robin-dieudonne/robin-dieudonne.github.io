@@ -9,4 +9,4 @@ Sign Language Machine Translation (SLT) is challenged by the scarcity of annotat
 
 Utilizing the PHOENIX-Weather 2014T corpus, we achieve a new state-of-the-art ROUGE-L score of 57.11. Our results demonstrate the potential for further advancements in SLT by jointly training encoder-decoder architectures on both text-to-gloss and gloss-to-text tasks. This combined approach not only augments the data but also improves SLT performance using the newly generated data.
 
-You can find the article [here](https://robin-dieudonne.github.io/NLP_for_SignLanguageTranslation.pdf).
+You can find the article [here](https://robin-dieudonne.github.io/files/NLP_for_SignLanguageTranslation.pdf).
