@@ -1,6 +1,6 @@
 ---
 title: "PPO (Proximal Policy Optimization) and TD3 (Twin Delayed DDPG)"
-excerpt: "Applied PPO (Proximal Policy Optimization) and TD3 (Twin Delayed DDPG) algorithms to complex environments (Ant Lv.2 and HumanoidStandup Lv.3).<br/><img src='/images/500x300.png'>"
+excerpt: "Applied PPO (Proximal Policy Optimization) and TD3 (Twin Delayed DDPG) algorithms to complex environments (Ant Lv.2 and HumanoidStandup Lv.3).<br/><img src='/images/500x300.png'><br/><img src='/images/500x300.png'>"
 
 collection: portfolio
 ---
