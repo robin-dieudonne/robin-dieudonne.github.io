@@ -7,10 +7,11 @@ collection: portfolio
 <div>
 <br/>
   <h1>PPO & TD3</h1>
+  <p>Applied PPO (Proximal Policy Optimization) and TD3 (Twin Delayed DDPG) algorithms to complex environments (Ant Lv.2 and HumanoidStandup Lv.3).
+    
+  Conducted performance analysis to evaluate the effectiveness of RL algorithms in high-level control tasks.
+
+  You can find the slides [here](https://robin-dieudonne.github.io/files/PPO_TD3.pdf).
+</p>
 <br/>
 <div/>
-Applied PPO (Proximal Policy Optimization) and TD3 (Twin Delayed DDPG) algorithms to complex environments (Ant Lv.2 and HumanoidStandup Lv.3).
-
-Conducted performance analysis to evaluate the effectiveness of RL algorithms in high-level control tasks.
-
-You can find the slides [here](https://robin-dieudonne.github.io/files/PPO_TD3.pdf).
