@@ -7,15 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<div style="width: 100%; background: linear-gradient(to bottom, #6BC1FF, #FFFFFF); padding: 20px;">
-
-Mathematics and Applications BSc student @ Université Paris Cité, specializing in Mathematical and Probabilistic Engineering Techniques, with a strong emphasis on Programming Languages and Algorithmic Tools.
-<br/>
-<br>
-<br>
-<img src='/images/20240805_160833582_91011.jpg' style="max-width: 100%;">
-
+<div style="width: 100%; background: linear-gradient(to bottom, #6BC1FF, #FFFFFF); min-height: 100vh; display: flex; flex-direction: column; justify-content: center; padding: 20px;">
+    <h1>Robin DIEUDONNE</h1>
+    <p>Mathematics and Applications BSc student @ Université Paris Cité, specializing in Mathematical and Probabilistic Engineering Techniques, with a strong emphasis on Programming Languages and Algorithmic Tools.</p>
+    <img src='/images/20240805_160833582_91011.jpg' style="max-width: 100%;">
 </div>
+
 
 {::comment}
 A data-driven personal website
