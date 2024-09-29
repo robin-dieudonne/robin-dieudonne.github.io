@@ -13,6 +13,6 @@ collection: portfolio
 
   You can find the slides [here](https://robin-dieudonne.github.io/files/PPO_TD3.pdf).
 </p>
-</p>div>
+</div>
   
 
