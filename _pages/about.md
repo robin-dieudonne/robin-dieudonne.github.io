@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 <div>
-Mathematics and Applications BSc student @ Université Paris Cité, specializing in Mathematical and Probabilistic Engineering Techniques, with a strong emphasis on Programming Languages and Algorithmic Tools.
+  <h1>Robin DIEUDONNE</h1>
+  <p>Mathematics and Applications BSc student @ Université Paris Cité, specializing in Mathematical and Probabilistic Engineering Techniques, with a strong emphasis on Programming Languages and Algorithmic Tools.</p>
 <br/>
 <br>
 <br>
