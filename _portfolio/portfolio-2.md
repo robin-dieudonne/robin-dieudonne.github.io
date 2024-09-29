@@ -9,4 +9,4 @@ Applied PPO (Proximal Policy Optimization) and TD3 (Twin Delayed DDPG) algorithm
 
 Conducted performance analysis to evaluate the effectiveness of RL algorithms in high-level control tasks.
 
-You can find the slides [here](https://robin-dieudonne.github.io/files/NLP_for_SignLanguageTranslation.pdf).
+You can find the slides [here](https://robin-dieudonne.github.io/files/PPO_TD3.pdf).
