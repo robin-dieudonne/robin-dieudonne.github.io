@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="width: 100%; background: linear-gradient(to bottom, #B2D2E9, white); padding: 20px;">
+<div style="width: 100%; background: linear-gradient(to bottom, #6BC1FF, #FFFFFF); padding: 20px;">
 
 Mathematics and Applications BSc student @ Université Paris Cité, specializing in Mathematical and Probabilistic Engineering Techniques, with a strong emphasis on Programming Languages and Algorithmic Tools.
 <br/>
