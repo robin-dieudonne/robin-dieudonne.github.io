@@ -21,7 +21,7 @@ repository               : "robin-dieudonne/robin-dieudonne.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "20230510_020511.jpg"
+  avatar           : "pfp.jpg"
   name             : "Robin Dieudonné"
   pronouns         :
   bio              : "Mathematics and Computer Science @ Université Paris Cité"
